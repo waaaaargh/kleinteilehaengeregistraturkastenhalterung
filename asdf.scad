@@ -3,7 +3,7 @@
 gap=6;
 hook_y=3;
 hook_thickness=3;
-plate_thickness=2;
+plate_thickness=7.4;
 top_thickness=2;
 draft=1;
 bevel_length=1.6;

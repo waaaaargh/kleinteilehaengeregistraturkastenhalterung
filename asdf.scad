@@ -1,4 +1,5 @@
 gap=5;
+gap=6;
 hook_y=3;
 hook_thickness=3;
 plate_thickness=2;

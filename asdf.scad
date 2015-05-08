@@ -1,4 +1,5 @@
-gap=5;
+// 31.1 Kasten Breite
+// 32.6 Breite Aufhängung
 gap=6;
 hook_y=3;
 hook_thickness=3;
